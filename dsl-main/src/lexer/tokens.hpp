@@ -1,0 +1,15 @@
+#pragma once
+
+enum Token {
+    TOKEN_EOF = 0,
+    TOKEN_NUMBER = 258,
+    TOKEN_IDENTIFIER = 259,
+    TOKEN_PLUS = 260,
+    TOKEN_MINUS = 261,
+    TOKEN_MULTIPLY = 262,
+    TOKEN_DIVIDE = 263,
+    TOKEN_ASSIGN = 264,
+    TOKEN_SEMICOLON = 265,
+    TOKEN_LPAREN = 266,
+    TOKEN_RPAREN = 267
+};

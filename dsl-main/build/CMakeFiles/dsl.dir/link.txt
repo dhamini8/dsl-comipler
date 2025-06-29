@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/dsl.dir/src/main.cpp.o CMakeFiles/dsl.dir/src/parser/ast.cpp.o CMakeFiles/dsl.dir/src/parser/globals.cpp.o CMakeFiles/dsl.dir/dsl/codegen/code_generator.cpp.o CMakeFiles/dsl.dir/parser.cpp.o CMakeFiles/dsl.dir/lexer.cpp.o -o dsl
